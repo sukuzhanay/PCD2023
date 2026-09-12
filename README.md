@@ -1,22 +1,33 @@
-# Programación Concurrente y Distribuida #
-# Python crash course
+# Python, NumPy, pandas y Git — material docente
 
-![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
+Notebooks introductorios utilizados en el contexto histórico de Programación Concurrente y Distribuida.
 
+## Scope
 
-# Programación Concurrente y Distribuida #
- ## UNIDAD 2 y 3 ! 
- _**Python**_ elaboración de notebooks con las instrucciones basicas de Pyhton
- ![Design](https://github.com/sukuzhanay/Kali-Linux-using-Docker/blob/main/pythonProject/Docker_Kalix_Linux.png)
- 
-![Logo of the project](https://github.com/sukuzhanay/tfginder/blob/main/UEM-logo.png)
+Las sesiones cubren fundamentos de Python, colecciones, NumPy, pandas y comandos Git. Algunas celdas son ejemplos incompletos o dependen del estado de sesiones anteriores; no se presentan como un curso ejecutable de principio a fin sin revisión.
 
-# Requisitos e Instalaciones
+## Technology / Material
 
-## Obligatorias
+Python · Jupyter · NumPy · pandas · Git
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+## Repository guide
 
-* [JupyterLab](https://hub.docker.com/u/sukuzhanay)
+- [Python_crash_course_session_1.ipynb](Python_crash_course_session_1.ipynb)
+- [Python_crash_course_session_2.ipynb](Python_crash_course_session_2.ipynb)
+- [Python_crash_course_session_3.ipynb](Python_crash_course_session_3.ipynb)
+- [Python_crash_course-session_4.ipynb](Python_crash_course-session_4.ipynb)
+- [Git_GitHub_crash_course.ipynb](Git_GitHub_crash_course.ipynb)
 
-* [Git](https://git-scm.com/)
+## Getting started / Reproducibility
+
+Abre cada notebook en Jupyter y ejecuta las celdas de forma guiada. Revisa antes las rutas externas y los comandos Git, que actúan sobre el directorio de trabajo.
+
+## Author & learning context
+
+**Christian Vladimir Sucuzhanay Arévalo**
+
+Data & AI Solutions Architect | AWS Data Architecture | Generative AI & Amazon Bedrock | Big Data | Former University Lecturer
+
+[Entity Home](https://christiansucuzhanay.com/) · [Technical Portfolio](https://sukuzhanay.github.io/) · [LinkedIn](https://www.linkedin.com/in/sucuzhanay) · [AWS Builder](https://builder.aws.com/community/@sucuzhanay) · [GitHub](https://github.com/sukuzhanay)
+
+**Build. Explain. Teach. Share.**
